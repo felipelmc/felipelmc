@@ -1,5 +1,3 @@
-### Olá! Eu sou o Felipe Lamarca :)
-
 <div>
   <a href="https://github.com/felipelmc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipelmc&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
