@@ -10,5 +10,3 @@
   <a href="https://www.linkedin.com/in/felipe-lamarca-893a541a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
-
-<div class="repo-card" data-repo="felipelmc/Geographical-Scattering-of-Votes" data-theme="github_dark"></div>
