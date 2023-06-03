@@ -4,21 +4,19 @@
 
 ### Oi! Tudo bem? 😃:wave:
 
-Em 2019, entrei no curso de Ciências Sociais 🦉 da Escola Superior de Ciências Sociais da Fundação Getulio Vargas ([FGV CPDOC](https://cpdoc.fgv.br/)). Em 2021, decidi me matricular no curso de Ciência de Dados e Inteligência Artificial 🖥️ da Escola de Matemática Aplicada ([FGV EMAp](https://emap.fgv.br/)). Além das graduações, também sou Diretor de Comunicação e Pesquisador do [Instituto Rio21](https://rio21.org/). 
-
-Hoje sou um apaixonado por análise de dados, principalmente nas aplicações relacionadas a problemas reais da sociedade :earth_americas:.
-
-No dia a dia, trabalho com Python, R e SQL. Aqui estão alguns dos projetos que fiz usando essas ferramentas e algumas outras.
+- Estudo Ciência de Dados e Inteligência Artificial 🖥️ na Escola de Matemática Aplicada ([FGV EMAp](https://emap.fgv.br/)) e Ciências Sociais 🦉 na Escola Superior de Ciências Sociais ([FGV CPDOC](https://cpdoc.fgv.br/)). 
+- Sou Diretor de Comunicação e Pesquisador do [Instituto Rio21](https://rio21.org/). 
+- Apaixonado por análise de dados, principalmente nas aplicações relacionadas a problemas reais da sociedade :earth_americas:.
+- No dia a dia, trabalho com Python, R e SQL. Aqui guardo alguns dos projetos que fiz usando essas ferramentas e algumas outras.
 
 ---
 
 ### Hi! How are you doing? 😃:wave:
 
-Back in 2019, I enrolled in the Social Sciences 🦉 program at the School of Social Sciences of Fundação Getulio Vargas ([FGV CPDOC](https://cpdoc.fgv.br/)). In 2021, I decided to register for the Data Science and Artificial Intelligence 🖥️ program at the School of Applied Mathematics ([FGV EMAp](https://emap.fgv.br/)). In addition to my degrees, I am also the Communication Director and a Researcher at [Rio21 Institute](https://rio21.org/).
-
-Today, I am passionate about data analysis, particularly in its applications to real-world societal problems :earth_americas:.
-
-In my day-to-day work, I use Python, R, and SQL. Here are some of the projects I have worked on using these tools and some others.
+- I study Data Science and Artificial Intelligence 🖥️ at the School of Applied Mathematics ([FGV EMAp](https://emap.fgv.br/)) and Social Sciences 🦉 at the School of Social Sciences ([FGV CPDOC](https://cpdoc.fgv.br/)). 
+- I am the Communication Director and a Researcher at [Rio21 Institute](https://rio21.org/).
+- I am passionate about data analysis, particularly in its applications to real-world societal problems :earth_americas:.
+- In my day-to-day work, I use Python, R, and SQL. Here I keep some of the projects I have worked on using these tools and some others.
 
 ---
 
@@ -39,7 +37,5 @@ In my day-to-day work, I use Python, R, and SQL. Here are some of the projects I
   <a target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
   <a target="_blank"><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
   <a target="_blank"><img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a>
-  
-  
 </div>
 
