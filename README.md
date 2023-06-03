@@ -2,7 +2,7 @@
 
 
 
-### Oi! Tudo bem? 😃:wave:
+### Oi! Tudo bem? :wave:😃
 
 - Estudo Ciência de Dados e Inteligência Artificial 🖥️ na Escola de Matemática Aplicada ([FGV EMAp](https://emap.fgv.br/)) e Ciências Sociais 🦉 na Escola Superior de Ciências Sociais ([FGV CPDOC](https://cpdoc.fgv.br/)). 
 - Sou Diretor de Comunicação e Pesquisador do [Instituto Rio21](https://rio21.org/). 
@@ -11,7 +11,7 @@
 
 ---
 
-### Hi! How are you doing? 😃:wave:
+### Hi! How are you doing? 👋😃
 
 - I study Data Science and Artificial Intelligence 🖥️ at the School of Applied Mathematics ([FGV EMAp](https://emap.fgv.br/)) and Social Sciences 🦉 at the School of Social Sciences ([FGV CPDOC](https://cpdoc.fgv.br/)). 
 - I am the Communication Director and a Researcher at [Rio21 Institute](https://rio21.org/).
