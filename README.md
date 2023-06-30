@@ -5,7 +5,7 @@
 - I study Data Science and Artificial Intelligence 🖥️ at the School of Applied Mathematics ([FGV EMAp](https://emap.fgv.br/)) and Social Sciences 🦉 at the School of Social Sciences ([FGV CPDOC](https://cpdoc.fgv.br/)), :brazil:.
 - I am the Communication Director and a Researcher at [Rio21 Institute](https://rio21.org/).
 - I am passionate about data analysis, particularly in its applications to real-world societal problems :earth_americas:.
-- On a daily basis, I work with Python, R, SQL, Excel and BI techniques. Here I keep some of the projects I have worked on using these tools and some others.
+- On a daily basis, I work with Python, R, SQL, Excel and BI techniques. Here I keep some of the projects I have worked on using these and some other tools.
 
 ---
 
