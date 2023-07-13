@@ -7,6 +7,8 @@
 - I am passionate about data analysis, particularly in its applications to real-world societal problems :earth_americas:.
 - On a daily basis, I work with Python, R, SQL, Excel and BI techniques. Here I keep some of the projects I have worked on using these and some other tools.
 
+Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [CV](https://drive.google.com/file/d/1wsCk8MK5-UoYg8DkYIYpxRLTVr54sIYt/view) 👨🏻‍🎓 for more details!
+
 ---
 
 <div>
