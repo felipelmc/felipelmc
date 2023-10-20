@@ -13,7 +13,7 @@ Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [Resume](https:
 <div>
   <a href="https://github.com/felipelmc">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=felipelmc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelmc&langs_count=8&hide=html,scss,css&theme=github_dark&hide_progress=true"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelmc&langs_count=8&hide=html,scss,css,scilab&theme=github_dark&hide_progress=true"/>
     </div>
  
  
