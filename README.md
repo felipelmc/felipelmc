@@ -1,6 +1,6 @@
 # About me 👨🏻‍💻
 
-### Hi! 👋 I am Felipe Lamarca and...
+### Hi there! 👋 I am Felipe Lamarca and...
 
 - I study Data Science and Artificial Intelligence 🖥️ at the School of Applied Mathematics ([FGV EMAp](https://emap.fgv.br/)) and Social Sciences 🦉 at the School of Social Sciences ([FGV CPDOC](https://cpdoc.fgv.br/)), :brazil:.
 - I am passionate about data analysis, particularly in its applications to real-world problems :earth_americas:.
