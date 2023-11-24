@@ -32,6 +32,8 @@ Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [Resume](https:
 <!--   <a target="_blank"><img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a> -->
 </div>
 
+---
+
 [^1]: I know, it's not leisure, but it's fascinating
 [^2]: Non-practitioner Flamengo supporter 🔴⚫
 [^3]: Big fan of the Assassin's Creed & God of War franchises. Also had much fun playing Hogwarts Legacy 🔮
