@@ -4,7 +4,8 @@
 
 - I study Data Science and Artificial Intelligence 🖥️ at the School of Applied Mathematics ([FGV EMAp](https://emap.fgv.br/)) and Social Sciences 🦉 at the School of Social Sciences ([FGV CPDOC](https://cpdoc.fgv.br/)), :brazil:.
 - I am passionate about data analysis, particularly in its applications to real-world problems :earth_americas:.
-- On a daily basis, I work with Python, R & Excel, Statistics & Machine Learning, Data Visualization, SQL and BI techniques. Here I keep some of the projects I have worked on using these and some other tools.
+- On a daily basis, I work with Python, Statistics & Machine Learning, Data Viz, and SQL. Here I keep some of the projects I have worked on using these and some other tools.
+- Other than that, I'm also into: Political Science, watching sports of any kind[^1], playing video games[^2] , and making people laugh.
 
 Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [Resume](https://drive.google.com/file/d/1aX5t0YRDJhJa1XPqzSN7xi8YAMUpNyA1/view?usp=sharing) 👨🏻‍🎓 for more details!
 
@@ -14,20 +15,21 @@ Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [Resume](https:
 
 <div>
   <a href="https://github.com/felipelmc">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=felipelmc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelmc&langs_count=8&hide=html,scss,css,scilab&theme=github_dark&hide_progress=true"/>
+  <img align="center" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipelmc&theme=github_dark"/>
+  <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipelmc&theme=github_dark&utcOffset=8">
+  <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipelmc&theme=github_dark&exclude=scilab"/>
     </div>
- 
- 
+    
  #
   
 <div>
   <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
   <a target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white target="_blank"></a>
   <a target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
   <a target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
   <a target="_blank"><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
   <a target="_blank"><img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a>
 </div>
 
+[^1]: Non-practitioner Flamengo supporter 🔴⚫
+[^2]: Big fan of the Assassin's Creed & God of War franchises. Also had much fun playing Hogwarts Legacy 🔮
