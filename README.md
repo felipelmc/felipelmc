@@ -5,7 +5,7 @@
 - I study Data Science and Artificial Intelligence 🖥️ at the School of Applied Mathematics ([FGV EMAp](https://emap.fgv.br/)) and Social Sciences 🦉 at the School of Social Sciences ([FGV CPDOC](https://cpdoc.fgv.br/)), :brazil:.
 - I am passionate about data analysis, particularly in its applications to real-world problems :earth_americas:.
 - On a daily basis, I work with Python, Statistics & Machine Learning, Data Viz, and SQL. Here I keep some of the projects I have worked on using these and some other tools.
-- Other than that, I'm also into: Political Science, watching sports of any kind[^1], playing video games[^2] , and making people laugh.
+- Other than that, I'm also into: Political Science[^1], watching sports of any kind[^2], playing video games[^3] , and making people laugh.
 
 Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [Resume](https://drive.google.com/file/d/1aX5t0YRDJhJa1XPqzSN7xi8YAMUpNyA1/view?usp=sharing) 👨🏻‍🎓 for more details!
 
@@ -14,11 +14,13 @@ Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [Resume](https:
 ---
 
 <div>
-  <a href="https://github.com/felipelmc">
-  <img align="center" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipelmc&theme=github_dark"/>
-  <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipelmc&theme=github_dark&utcOffset=8">
-  <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipelmc&theme=github_dark&exclude=scilab"/>
-    </div>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipelmc&theme=github_dark"/>
+  <br>
+  <br>
+  <img align="center" height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipelmc&theme=github_dark"/>
+<!--   <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipelmc&theme=github_dark&utcOffset=8"> -->
+  <img align="center" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipelmc&theme=github_dark&exclude=scilab"/>
+</div>
     
  #
   
@@ -31,5 +33,6 @@ Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [Resume](https:
   <a target="_blank"><img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a>
 </div>
 
-[^1]: Non-practitioner Flamengo supporter 🔴⚫
-[^2]: Big fan of the Assassin's Creed & God of War franchises. Also had much fun playing Hogwarts Legacy 🔮
+[^1]: I know, it's not leisure, but it's fascinating
+[^2]: Non-practitioner Flamengo supporter 🔴⚫
+[^3]: Big fan of the Assassin's Creed & God of War franchises. Also had much fun playing Hogwarts Legacy 🔮
