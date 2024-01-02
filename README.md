@@ -3,6 +3,7 @@
 ### Hi there! 👋 I am Felipe Lamarca and...
 
 - I study Data Science and Artificial Intelligence 🖥️ at the School of Applied Mathematics ([FGV EMAp](https://emap.fgv.br/)) and Social Sciences 🦉 at the School of Social Sciences ([FGV CPDOC](https://cpdoc.fgv.br/)), :brazil:.
+- I work at [Visagio](https://visagio.com/) :rocket: 💚, a global business development and transformation platform focused on generating results. More specifically, I work on Data Science and Business Analytics projects. 
 - I am passionate about data analysis, particularly in its applications to real-world problems :earth_americas:.
 - On a daily basis, I work with Python, Statistics & Machine Learning, Data Viz, and SQL. Here I keep some of the projects I have worked on using these and some other tools.
 - Other than that, I'm also into: Political Science[^1], watching sports of any kind[^2], playing video games[^3] , and making people laugh.
