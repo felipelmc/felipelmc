@@ -13,25 +13,25 @@ Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [professional r
 <!-- <a href = "mailto:felipe.lamarca@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/felipe-lamarca-893a541a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
 
 
-<div>
-<!--  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipelmc&theme=github_dark"/> -->
-<!--  <br> -->
-<!--  <br> -->
-<img align="center" height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipelmc&theme=github_dark"/>
+<!-- <div> -->
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipelmc&theme=github_dark"/> -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- <img align="center" height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipelmc&theme=github_dark"/> -->
 <!-- <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipelmc&theme=github_dark&utcOffset=8"> -->
-<img align="center" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipelmc&theme=github_dark&exclude=scilab"/>
-</div>
+<!-- <img align="center" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipelmc&theme=github_dark&exclude=scilab"/>
+<!-- </div> -->
 
-<br>
+<!-- <br> -->
     
   
 <!-- <div> -->
-<!--   <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a> -->
-<!--   <a target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" target="_blank"></a> -->
-<!--   <a target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a> -->
-<!--   <a target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a> -->
-<!--   <a target="_blank"><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a> -->
-<!--   <a target="_blank"><img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a> -->
+<!-- <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a> -->
+<!-- <a target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" target="_blank"></a> -->
+<!-- <a target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a> -->
+<!-- <a target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a> -->
+<!-- <a target="_blank"><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a> -->
+<!-- <a target="_blank"><img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a> -->
 <!-- </div> -->
 
 [^1]: I know, it's not leisure, but it's fascinating
