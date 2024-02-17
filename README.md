@@ -1,37 +1,38 @@
-# About me 👨🏻‍💻
+#### Hi there! 👋🏼 I'm Felipe Lamarca and...
 
-### Hi there! 👋 I am Felipe Lamarca and...
+I study Data Science and A. I. at [FGV EMAp](https://emap.fgv.br/en) and Social Sciences at [FGV CPDOC](https://cpdoc.fgv.br/en). I work at [Visagio](https://visagio.com/en/home/) :rocket: 💚, a global business development and transformation platform. More specifically, I apply data solutions in one of the largest education companies in Brazil.
 
-- I study Data Science and Artificial Intelligence 🖥️ at the School of Applied Mathematics ([FGV EMAp](https://emap.fgv.br/)) and Social Sciences 🦉 at the School of Social Sciences ([FGV CPDOC](https://cpdoc.fgv.br/)), :brazil:.
-- I work at [Visagio](https://visagio.com/en/home/) :rocket: 💚, a global business development and transformation platform focused on generating results. More specifically, I work on Data Science and Business Analytics projects. 
-- I am passionate about data analysis, particularly in its applications to real-world problems :earth_americas:.
-- On a daily basis, I work with Python, Statistics & Machine Learning, Data Viz, and SQL. Here I keep some of the projects I have worked on using these and some other tools.
-- Other than that, I'm also into: Political Science[^1], watching sports of any kind[^2], playing video games[^3] , and spending time with family and friends.
+- ☕ I'm interested in Statistics, Machine Learning and the use of data on impactful matters
+- 📚 I have been studying more about Bayesian inference and statistical modeling 
+- 🤌🏼 Other than that, I'm also into: Political Science[^1], playing video games[^2] and exercising
 
-Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [Resume](https://drive.google.com/file/d/1aX5t0YRDJhJa1XPqzSN7xi8YAMUpNyA1/view?usp=sharing) 👨🏻‍🎓 for more details!
+Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [professional resume](https://drive.google.com/file/d/1aX5t0YRDJhJa1XPqzSN7xi8YAMUpNyA1/view?usp=sharing) 📃 for more details!
 
-<a href = "mailto:felipe.lamarca@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/felipe-lamarca-893a541a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+📩 This is my e-mail, if you'd like to reach me out: <a href = "mailto:felipe.lamarca@hotmail.com" target="_blank">felipe.lamarca@hotmail.com</a>
+
+<!-- <a href = "mailto:felipe.lamarca@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/felipe-lamarca-893a541a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
 
 
-<!-- <div> -->
+<div>
 <!--  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipelmc&theme=github_dark"/> -->
 <!--  <br> -->
 <!--  <br> -->
-<!--  <img align="center" height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipelmc&theme=github_dark"/> -->
-<!--   <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipelmc&theme=github_dark&utcOffset=8"> -->
-<!--  <img align="center" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipelmc&theme=github_dark&exclude=scilab"/> -->
-<!-- </div> -->
+<img align="center" height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipelmc&theme=github_dark"/>
+<!-- <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipelmc&theme=github_dark&utcOffset=8"> -->
+<img align="center" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipelmc&theme=github_dark&exclude=scilab"/>
+</div>
+
+<br>
     
   
-<div>
+<!-- <div> -->
 <!--   <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a> -->
 <!--   <a target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" target="_blank"></a> -->
 <!--   <a target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a> -->
 <!--   <a target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a> -->
 <!--   <a target="_blank"><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a> -->
 <!--   <a target="_blank"><img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a> -->
-</div>
+<!-- </div> -->
 
 [^1]: I know, it's not leisure, but it's fascinating
-[^2]: I'm a non-practicing supporter of Flamengo 🔴⚫
-[^3]: Big fan of the Assassin's Creed & God of War franchises. Also had much fun playing Hogwarts Legacy 🔮
+[^2]: Big fan of the Assassin's Creed & God of War franchises. Also had much fun playing Hogwarts Legacy 🔮
