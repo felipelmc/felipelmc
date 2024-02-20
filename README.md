@@ -8,7 +8,7 @@ I study Data Science and A. I. at [FGV EMAp](https://emap.fgv.br/en) and Social 
 
 Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [professional resume](https://drive.google.com/file/d/1aX5t0YRDJhJa1XPqzSN7xi8YAMUpNyA1/view?usp=sharing) 📃 for more details!
 
-📩 This is my e-mail, if you'd like to reach me out: <a href = "mailto:felipe.lamarca@hotmail.com" target="_blank">felipe.lamarca@hotmail.com</a>
+📬 This is my e-mail, if you'd like to reach me out: <a href = "mailto:felipe.lamarca@hotmail.com" target="_blank">felipe.lamarca@hotmail.com</a>
 
 <!-- <a href = "mailto:felipe.lamarca@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/felipe-lamarca-893a541a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
 
