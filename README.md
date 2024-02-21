@@ -3,7 +3,7 @@
 I study Data Science and A. I. at [FGV EMAp](https://emap.fgv.br/en) and Social Sciences at [FGV CPDOC](https://cpdoc.fgv.br/en). I work at [Visagio](https://visagio.com/en/home/) :rocket: 💚, a global business development and transformation platform. More specifically, I apply data solutions in a large education company.
 
 - ☕ I'm interested in Statistics, Machine Learning and the use of data on impactful matters
-- 📚 I have been studying more about Bayesian inference and statistical modeling 
+- 📚 I've been studying more about Bayesian inference and statistical modeling 
 - 🎮 Other than that, I'm also into: Political Science[^1], playing video games[^2] and (sometimes) exercising
 
 Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [professional resume](https://drive.google.com/file/d/1aX5t0YRDJhJa1XPqzSN7xi8YAMUpNyA1/view?usp=sharing) 📃 for more details!
