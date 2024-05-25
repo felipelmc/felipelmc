@@ -2,7 +2,8 @@
 
 I study Data Science and A. I. at [FGV EMAp](https://emap.fgv.br/en) and Social Sciences at [FGV CPDOC](https://cpdoc.fgv.br/en). I work at [Visagio](https://visagio.com/en/home/) :rocket: 💚, a global business development and transformation platform. More specifically, I apply data solutions in a large education company.
 
-- ☕ I'm interested in Statistics, Machine Learning & Deep Learning, Quantitative Methodology and the use of data on impactful matters
+- ☕ I'm interested in Statistical Modeling, Machine Learning, Deep Learning and Quantitative Methods
+- 👨🏻‍🔬 I'm really into modeling complex phenomena and getting to the bottom of why they happen the way they do
 - 📚 I've been studying more about bayesian statistics and multilevel modeling
 - 🎮 Other than that, I'm also into: Political Science[^1], playing video games[^2] and (sometimes) exercising
 - 🚠 I'm a proud carioca as well
