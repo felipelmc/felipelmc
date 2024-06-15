@@ -1,6 +1,6 @@
 #### Hi there! 👋🏼 I'm Felipe Lamarca and...
 
-I study Data Science and A. I. at [FGV EMAp](https://emap.fgv.br/en) and Social Sciences at [FGV CPDOC](https://cpdoc.fgv.br/en). I work at [Visagio](https://visagio.com/en/home/) :rocket: 💚, a global business development and transformation platform. More specifically, I apply data solutions in a large education company.
+I study Data Science and A. I. at [FGV EMAp](https://emap.fgv.br/en) and Social Sciences at [FGV CPDOC](https://cpdoc.fgv.br/en).
 
 - ☕ I'm interested in Statistical Modeling, Machine Learning, Deep Learning and Quantitative Methods
 - 👨🏻‍🔬 I'm really into modeling complex phenomena and getting to the bottom of why they happen the way they do
