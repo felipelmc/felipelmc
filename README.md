@@ -1,4 +1,4 @@
-#### Hi there! 👋🏼 I'm Felipe Lamarca and...
+### Hi there! 👋🏼 I'm Felipe Lamarca and...
 
 I study Data Science and A. I. at [FGV EMAp](https://emap.fgv.br/en) and Social Sciences at [FGV CPDOC](https://cpdoc.fgv.br/en).
 
@@ -12,7 +12,7 @@ Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [professional r
 
 📬 This is my e-mail, if you'd like to reach me out: <a href = "mailto:felipe.lamarca@hotmail.com" target="_blank">felipe.lamarca@hotmail.com</a>
 
-#### 📰 News
+### 📰 News
 
 **June 18, 2024**  
 The research project of my undergraduate thesis, titled _The determinants of electoral success in legislative elections in Brazil: an approach using Bayesian multilevel models_, was approved with the highest grade. I am deeply grateful to Professors [Jaqueline Zulini](https://cpdoc.fgv.br/equipe/jaquelinezulini) and [Luiz Max Carvalho](https://emap.fgv.br/en/professors/luiz-max-fagundes-de-carvalho) for their outstanding supervision. I'm excited to dive deeply in this research!
