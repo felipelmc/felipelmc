@@ -18,10 +18,10 @@ Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [professional r
 The research project of my undergraduate thesis, titled _The determinants of electoral success in legislative elections in Brazil: an approach using Bayesian multilevel models_, was approved with the highest grade. I am deeply grateful to Professors [Jaqueline Zulini](https://cpdoc.fgv.br/equipe/jaquelinezulini) and [Luiz Max Carvalho](https://emap.fgv.br/en/professors/luiz-max-fagundes-de-carvalho) for their outstanding supervision. I'm excited to dive deeply in this research!
 
 **June 18, 2024**  
-I was accepted to participate in the [Summer Institute in Computational Social Sciences](https://sicss.io/2024/fgv-ecmi-brazil/), hosted by [FGV ECMI](https://ecmi.fgv.br/en), in July 2024. It's an intensive two-week program to provide training in CSS techniques useful for academia, industry and government.
+I was accepted to participate in the [Summer Institute in Computational Social Sciences](https://sicss.io/2024/fgv-ecmi-brazil/), hosted by [FGV ECMI](https://ecmi.fgv.br/en), in July 2024. It's an intensive two-week program that provides training in CSS techniques useful for academia, industry and government.
 
 **June 11, 2024**  
-I was accepted to participate in the next edition of [ML4Good](https://www.ml4good.org/courses/brasil-july-2024), in São Paulo, Brazil, in July 2024. It's a ten-day bootcamp to promote upskilling in Deep Learning and AI Safety topics.
+I was accepted to participate in the next edition of [ML4Good](https://www.ml4good.org/courses/brasil-july-2024), in São Paulo, Brazil, in July 2024. It's a ten-day bootcamp that promotes upskilling in Deep Learning and AI Safety topics.
  
 
 
