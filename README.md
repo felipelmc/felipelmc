@@ -2,15 +2,15 @@
 
 I study Data Science and A. I. at [FGV EMAp](https://emap.fgv.br/en) and Social Sciences at [FGV CPDOC](https://cpdoc.fgv.br/en).
 
-- ☕ I'm interested in Quantitative Methods applied to Social Sciences, specially Statistical Modeling, Machine Learning and Deep Learning
+- ☕ I'm interested in Quantitative Methods applied to Social Sciences, especially Statistical Modeling, Machine Learning, and Deep Learning
 - 👨🏻‍🔬 I'm really into modeling complex phenomena and getting to the bottom of why they happen the way they do
-- 📚 I've been studying more about bayesian statistics and multilevel modeling
+- 📚 I've been studying more about Bayesian statistics and multilevel modeling
 - 🎮 Other than that, I'm also into playing video games[^1] and (sometimes) exercising
 - 🚠 I'm a proud carioca as well
 
 Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [professional resume](https://drive.google.com/file/d/1aX5t0YRDJhJa1XPqzSN7xi8YAMUpNyA1/view?usp=sharing) 📃 for more details!
 
-📬 This is my e-mail, if you'd like to reach me out: <a href = "mailto:felipe.lamarca@hotmail.com" target="_blank">felipe.lamarca@hotmail.com</a>
+📬 This is my e-mail, if you'd like to reach out: <a href = "mailto:felipe.lamarca@hotmail.com" target="_blank">felipe.lamarca@hotmail.com</a>
 
 ### 📰 News
 
