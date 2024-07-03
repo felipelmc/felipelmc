@@ -7,9 +7,9 @@ I study Data Science and AI at [FGV EMAp](https://emap.fgv.br/en) and Social Sci
 - 📚 I've been studying more about Bayesian statistics and multilevel modeling
 - 🎮 Other than that, I'm also into playing video games[^1] and (sometimes) exercising
 
-📬 This is my e-mail, if you'd like to reach out: <a href = "mailto:felipe.lamarca@hotmail.com" target="_blank">```felipe.lamarca@hotmail.com```</a>
+📬 This is my e-mail, if you'd like to reach out: <a href = "mailto:felipe.lamarca@hotmail.com" target="_blank">```felipe.lamarca@hotmail.com```</a>. If you prefer to speak face to face, feel free to [schedule a chat with me](https://calendar.app.google/zoFnRnH2QWJg5GmS7) 📆.
 
-Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [professional resume](https://drive.google.com/file/d/1aX5t0YRDJhJa1XPqzSN7xi8YAMUpNyA1/view?usp=sharing) 📃 for more details! 
+Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [professional resume](https://drive.google.com/file/d/1aX5t0YRDJhJa1XPqzSN7xi8YAMUpNyA1/view?usp=sharing) 📄 for more details! 
 
 ### 📰 News
 
@@ -48,4 +48,4 @@ I have been accepted to participate in the next edition of [ML4Good](https://www
 <!-- <a target="_blank"><img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a> -->
 <!-- </div> -->
 
-[^1]: Big fan of the Assassin's Creed & God of War franchises. Also had much fun playing Hogwarts Legacy 🔮
+[^1]: Big fan of the Assassin's Creed and God of War franchises. Also had much fun playing Hogwarts Legacy 🔮
