@@ -2,7 +2,7 @@
 
 I study Data Science and AI at [FGV EMAp](https://emap.fgv.br/en) and Social Sciences at [FGV CPDOC](https://cpdoc.fgv.br/en). I was born and raised in Rio de Janeiro, Brazil 🇧🇷, and I'm a proud Carioca.
 
-- ☕ I'm interested in Quantitative Methods applied to Social Sciences, especially Statistical Modeling, Machine Learning, and Deep Learning
+- ☕ I'm interested in Statistical Modeling, Machine Learning, Deep Learning and Quantitative Methods applied to Social Sciences
 - 👨🏻‍🔬 I'm really into modeling complex phenomena and getting to the bottom of why they happen the way they do
 - 📚 I've been studying more about Bayesian statistics and multilevel modeling
 - 🎮 Other than that, I'm also into playing video games[^1] and (sometimes) exercising
