@@ -17,7 +17,7 @@ Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [[concise]](htt
 I've been accepted into the [AI Safety Fundamentals: Governance](https://aisafetyfundamentals.com/governance/?utm_campaign=Send+email%3A+Application+decisions&utm_content=Accept+participant&utm_medium=email_action&utm_source=customer.io) course, offered by [BlueDot Impact](https://bluedot.org/). I look forward to deepening my understanding of AI Governance, connecting with others in the field, and contributing to impactful work in AI Safety.
 
 **August 01, 2024**  
-I've started a new role as a Teaching Assistant for Quantitative Methods II, under the supervision of [Professor Jairo Nicolau, PhD](https://cpdoc.fgv.br/equipe/jaironicolau). My goal is to help students from the Social Sciences to learn useful skills for industry, academia, and government. 
+I've started a new role as a Teaching Assistant for Quantitative Methods II, under the supervision of [Professor Jairo Nicolau, PhD](https://cpdoc.fgv.br/equipe/jaironicolau). My goal is to help students from the Social Sciences to learn useful skills for industry, academia, and government, such as programming and statistics.
 
 **June 18, 2024**  
 The research project of my undergraduate thesis, titled _The determinants of electoral success in legislative elections in Brazil: an approach using Bayesian multilevel models_, was approved with full marks. I am deeply grateful to Professors [Jaqueline Zulini, PhD](https://cpdoc.fgv.br/equipe/jaquelinezulini) and [Luiz Max Carvalho, PhD](https://emap.fgv.br/en/professors/luiz-max-fagundes-de-carvalho) for their outstanding supervision. I'm excited to dive deep into this research!
