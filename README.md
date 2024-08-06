@@ -2,25 +2,31 @@
 
 I study Data Science and AI at [FGV EMAp](https://emap.fgv.br/en) and Social Sciences at [FGV CPDOC](https://cpdoc.fgv.br/en). I was born and raised in Rio de Janeiro, Brazil 🇧🇷, and I'm a proud Carioca.
 
-- ☕ I'm interested in Statistical Modeling, Machine Learning, Deep Learning and Quantitative Methods applied to Social Sciences
+- ☕ I'm interested in Statistical Modeling, Machine Learning, Deep Learning and Computational Social Sciences
 - 👨🏻‍🔬 I'm really into modeling complex phenomena and getting to the bottom of why they happen the way they do
 - 📚 I've been studying more about Bayesian statistics and multilevel modeling
 - 🎮 Other than that, I'm also into playing video games[^1] and (sometimes) exercising
 
 📬 This is my e-mail, if you'd like to reach out: <a href = "mailto:felipe.lamarca@hotmail.com" target="_blank">```felipe.lamarca@hotmail.com```</a>. If you prefer to speak face to face, feel free to [schedule a chat with me](https://calendar.app.google/zoFnRnH2QWJg5GmS7) 📆.
 
-Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [professional resume](https://drive.google.com/file/d/1aX5t0YRDJhJa1XPqzSN7xi8YAMUpNyA1/view?usp=sharing) 📄 for more details! 
+Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [[concise]](https://drive.google.com/file/d/1aX5t0YRDJhJa1XPqzSN7xi8YAMUpNyA1/view?usp=sharing) [[detailed]](https://drive.google.com/file/d/1-gCNDi-t3uZO87_fVRIEpkCRfN3o18Zd/view?usp=drive_link) resume 📄 for more information about my work! 
 
 ### 📰 News
+
+**August 06, 2024**  
+I've been accepted into the [AI Safety Fundamentals: Governance](https://aisafetyfundamentals.com/governance/?utm_campaign=Send+email%3A+Application+decisions&utm_content=Accept+participant&utm_medium=email_action&utm_source=customer.io) course, offered by [BlueDot Impact](https://bluedot.org/). I look forward to deepening my understanding of AI Governance, connecting with others in the field, and contributing to impactful work in AI Safety.
+
+**August 01, 2024**  
+I've started a new role as a Teaching Assistant for Quantitative Methods II, under the supervision of [Professor Jairo Nicolau, PhD](https://cpdoc.fgv.br/equipe/jaironicolau). My goal is to help students from the Social Sciences to learn useful skills for industry, academia, and government. 
 
 **June 18, 2024**  
 The research project of my undergraduate thesis, titled _The determinants of electoral success in legislative elections in Brazil: an approach using Bayesian multilevel models_, was approved with full marks. I am deeply grateful to Professors [Jaqueline Zulini](https://cpdoc.fgv.br/equipe/jaquelinezulini) and [Luiz Max Carvalho](https://emap.fgv.br/en/professors/luiz-max-fagundes-de-carvalho) for their outstanding supervision. I'm excited to dive deep into this research!
 
-**June 18, 2024**  
-I have been accepted to participate in the [Summer Institute in Computational Social Sciences](https://sicss.io/2024/fgv-ecmi-brazil/), hosted by [FGV ECMI](https://ecmi.fgv.br/en), in July 2024. It's an intensive two-week program that offers training in CSS techniques useful for academia, industry, and government.
+<!-- **June 18, 2024**  
+I have been accepted to participate in the [Summer Institute in Computational Social Sciences](https://sicss.io/2024/fgv-ecmi-brazil/), hosted by [FGV ECMI](https://ecmi.fgv.br/en), in July 2024. It's an intensive two-week program that offers training in CSS techniques useful for academia, industry, and government. -->
 
-**June 11, 2024**  
-I have been accepted to participate in the next edition of [ML4Good](https://www.ml4good.org/courses/brasil-july-2024), in São Paulo, Brazil, in July 2024. It's a ten-day bootcamp that promotes upskilling in Deep Learning and AI Safety topics.
+<!-- **June 11, 2024**  
+I have been accepted to participate in the next edition of [ML4Good](https://www.ml4good.org/courses/brasil-july-2024), in São Paulo, Brazil, in July 2024. It's a ten-day bootcamp that promotes upskilling in Deep Learning and AI Safety topics. -->
  
 
 
