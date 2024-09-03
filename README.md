@@ -7,20 +7,20 @@ I study Data Science and AI at [FGV EMAp](https://emap.fgv.br/en) and Social Sci
 - 📚 I've been studying more about Bayesian statistics and multilevel modeling
 - 🎮 Other than that, I'm also into playing video games[^1] and (sometimes) exercising
 
-📬 This is my e-mail, if you'd like to reach out: <a href = "mailto:felipe.lamarca@hotmail.com" target="_blank">```felipe.lamarca@hotmail.com```</a>. If you prefer to speak face to face, feel free to [schedule a chat with me](https://calendar.app.google/zoFnRnH2QWJg5GmS7) 📆.
+📬 This is my e-mail, if you'd like to reach out: <a href = "mailto:felipe.lamarca@hotmail.com" target="_blank">```felipe.lamarca@hotmail.com```</a>. 
 
 Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [[concise]](https://drive.google.com/file/d/1aX5t0YRDJhJa1XPqzSN7xi8YAMUpNyA1/view?usp=sharing) [[detailed]](https://drive.google.com/file/d/1-gCNDi-t3uZO87_fVRIEpkCRfN3o18Zd/view?usp=drive_link) resume 📄 for more information about my work! 
 
-### 📰 News
+<!-- ### 📰 News -->
 
-**August 06, 2024**  
-I've been accepted into the [AI Safety Fundamentals: Governance](https://aisafetyfundamentals.com/governance/?utm_campaign=Send+email%3A+Application+decisions&utm_content=Accept+participant&utm_medium=email_action&utm_source=customer.io) course, offered by [BlueDot Impact](https://bluedot.org/). I look forward to deepening my understanding of AI Governance, connecting with others in the field, and contributing to impactful work in AI Safety.
+<!-- **August 06, 2024**  
+I've been accepted into the [AI Safety Fundamentals: Governance](https://aisafetyfundamentals.com/governance/?utm_campaign=Send+email%3A+Application+decisions&utm_content=Accept+participant&utm_medium=email_action&utm_source=customer.io) course, offered by [BlueDot Impact](https://bluedot.org/). I look forward to deepening my understanding of AI Governance, connecting with others in the field, and contributing to impactful work in AI Safety. -->
 
-**August 01, 2024**  
-I've started a new role as a Teaching Assistant for Quantitative Methods II, under the supervision of [Professor Jairo Nicolau, PhD](https://cpdoc.fgv.br/equipe/jaironicolau). My goal is to help students from the Social Sciences to learn useful skills for industry, academia, and government, such as programming and statistics.
+<!-- **August 01, 2024**  
+I've started a new role as a Teaching Assistant for Quantitative Methods II, under the supervision of [Professor Jairo Nicolau, PhD](https://cpdoc.fgv.br/equipe/jaironicolau). My goal is to help students from the Social Sciences to learn useful skills for industry, academia, and government, such as programming and statistics. -->
 
-**June 18, 2024**  
-The research project of my undergraduate thesis, titled _The determinants of electoral success in legislative elections in Brazil: an approach using Bayesian multilevel models_, was approved with full marks. I am deeply grateful to Professors [Jaqueline Zulini, PhD](https://cpdoc.fgv.br/equipe/jaquelinezulini) and [Luiz Max Carvalho, PhD](https://emap.fgv.br/en/professors/luiz-max-fagundes-de-carvalho) for their outstanding supervision. I'm excited to dive deep into this research!
+<!-- **June 18, 2024**  
+The research project of my undergraduate thesis, titled _The determinants of electoral success in legislative elections in Brazil: an approach using Bayesian multilevel models_, was approved with full marks. I am deeply grateful to Professors [Jaqueline Zulini, PhD](https://cpdoc.fgv.br/equipe/jaquelinezulini) and [Luiz Max Carvalho, PhD](https://emap.fgv.br/en/professors/luiz-max-fagundes-de-carvalho) for their outstanding supervision. I'm excited to dive deep into this research! -->
 
 <!-- **June 18, 2024**  
 I have been accepted to participate in the [Summer Institute in Computational Social Sciences](https://sicss.io/2024/fgv-ecmi-brazil/), hosted by [FGV ECMI](https://ecmi.fgv.br/en), in July 2024. It's an intensive two-week program that offers training in CSS techniques useful for academia, industry, and government. -->
