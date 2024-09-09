@@ -9,7 +9,7 @@ I study Data Science and AI at [FGV EMAp](https://emap.fgv.br/en) and Social Sci
 
 📬 This is my e-mail, if you'd like to reach out: <a href = "mailto:felipe.lamarca@hotmail.com" target="_blank">```felipe.lamarca@hotmail.com```</a>. 
 
-Check my [Linktree](https://linktr.ee/felipe_lamarca) 🔗 or my [[concise]](https://drive.google.com/file/d/1aX5t0YRDJhJa1XPqzSN7xi8YAMUpNyA1/view?usp=sharing) [[detailed]](https://drive.google.com/file/d/1-gCNDi-t3uZO87_fVRIEpkCRfN3o18Zd/view?usp=drive_link) resume 📄 for more information about my work! 
+Check my [website](https://felipelmc.github.io/) 🔗 or my [[concise]](https://drive.google.com/file/d/1aX5t0YRDJhJa1XPqzSN7xi8YAMUpNyA1/view?usp=sharing) [[detailed]](https://drive.google.com/file/d/1-gCNDi-t3uZO87_fVRIEpkCRfN3o18Zd/view?usp=drive_link) resume 📄 for more information about my work! 
 
 <!-- ### 📰 News -->
 
