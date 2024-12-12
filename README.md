@@ -1,13 +1,17 @@
 ### Hi there! 👋🏼 I'm Felipe Lamarca and...
 
-I study Data Science and AI at [FGV EMAp](https://emap.fgv.br/en) and Social Sciences at [FGV CPDOC](https://cpdoc.fgv.br/en). I was born and raised in Rio de Janeiro, Brazil 🇧🇷, and I'm a proud Carioca.
+I am a data scientist from the [School of Applied Mathematics](https://emap.fgv.br/en) (FGV EMAp) and a social scientist from the [Superior School of Social Sciences](https://cpdoc.fgv.br/en) (FGV CPDOC). I was born and raised in Rio de Janeiro, Brazil 🇧🇷, and I'm a proud Carioca.
 
-- ☕ I'm interested in Statistical Modeling, Machine Learning, Deep Learning and Computational Social Sciences
-- 👨🏻‍🔬 I'm really into modeling complex phenomena and getting to the bottom of why they happen the way they do
-- 📚 I've been studying more about Bayesian statistics and multilevel modeling
-- 🎮 Other than that, I'm also into playing video games[^1] and (sometimes) exercising
+I'm mainly interested in the following topics:
 
-📬 This is my e-mail, if you'd like to reach out: <a href = "mailto:felipe.lamarca@hotmail.com" target="_blank">```felipe.lamarca@hotmail.com```</a>. 
+- Statistics, Machine Learning, and Deep Learning
+- Computational Social Sciences, Political Science, and Public Policy
+- AI Safety and Governance
+- Open source tools and reproducible research
+
+🎮 Other than that, I'm also into playing video games[^1] and (sometimes) exercising
+
+📧 This is my e-mail, if you'd like to reach out: <a href = "mailto:felipe.lamarca@hotmail.com" target="_blank">```felipe.lamarca@hotmail.com```</a>. 
 
 Check my [website](https://felipelmc.github.io/) 🔗 or my [[concise]](https://drive.google.com/file/d/1aX5t0YRDJhJa1XPqzSN7xi8YAMUpNyA1/view?usp=sharing) [[detailed]](https://drive.google.com/file/d/1-gCNDi-t3uZO87_fVRIEpkCRfN3o18Zd/view?usp=drive_link) resume 📄 for more information about my work! 
 
