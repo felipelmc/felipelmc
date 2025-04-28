@@ -1,19 +1,18 @@
 ### Hi there! 👋🏼 I'm Felipe Lamarca and...
 
-I am a data scientist from the [School of Applied Mathematics](https://emap.fgv.br/en) (FGV EMAp) and a social scientist from the [School of Social Sciences](https://cpdoc.fgv.br/en) (FGV CPDOC). Currently, I am pursuing a Master's degree in Political Science at the [Institute of Social and Political Studies](https://iesp.uerj.br/en/) (IESP-UERJ). I was born and raised in Rio de Janeiro, Brazil 🇧🇷, and I'm a proud Carioca.
+I am a data scientist with a degree from the [School of Applied Mathematics](https://emap.fgv.br/en) (FGV EMAp) and a social scientist with a degree from the [School of Social Sciences](https://cpdoc.fgv.br/en) (FGV CPDOC). Currently, I am pursuing a Master's degree in Political Science at the [Institute of Social and Political Studies](https://iesp.uerj.br/en/) (IESP-UERJ). I was born and raised in Rio de Janeiro, Brazil 🇧🇷, and I'm a proud Carioca.
 
 I'm mainly interested in the following topics:
 
 - Statistics, Machine Learning, and Deep Learning
-- Computational Social Sciences, Political Science, and Public Policy
-- AI Safety and Governance
+- Political Science, Computational Social Sciences, and Public Policy
 - Open source tools and reproducible research
 
 🎮 Other than that, I'm also into playing video games[^1] and (sometimes) exercising
 
 📧 This is my e-mail, if you'd like to reach out: <a href = "mailto:felipe.lamarca@hotmail.com" target="_blank">```felipe.lamarca@hotmail.com```</a>. 
 
-Check my [website](https://felipelmc.github.io/) 🔗 or my [resume](https://drive.google.com/file/d/1dFBrI109flg6zSQHnFIxUd1DRfieCYAT/view?usp=sharing) 📄 for more information about my work! 
+Check my [website](https://felipelamarca.com) 🔗 or my [resume](https://drive.google.com/file/d/1dFBrI109flg6zSQHnFIxUd1DRfieCYAT/view?usp=sharing) 📄 for more information about my work! 
 
 <!-- ### 📰 News -->
 
