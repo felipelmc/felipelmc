@@ -1,6 +1,6 @@
 ### Hi there! 👋🏼 I'm Felipe Lamarca and...
 
-I am a data scientist with a degree from the [School of Applied Mathematics](https://emap.fgv.br/en) (FGV EMAp) and a social scientist with a degree from the [School of Social Sciences](https://cpdoc.fgv.br/en) (FGV CPDOC). Currently, I am pursuing a Master's degree in Political Science at the [Institute of Social and Political Studies](https://iesp.uerj.br/en/) (IESP-UERJ). I was born and raised in Rio de Janeiro, Brazil 🇧🇷, and I'm a proud Carioca.
+I'm a data scientist with a degree from the [School of Applied Mathematics](https://emap.fgv.br/en) (FGV EMAp) and a social scientist with a degree from the [School of Social Sciences](https://cpdoc.fgv.br/en) (FGV CPDOC). Currently, I'm pursuing a Master's degree in Political Science at the [Institute of Social and Political Studies](https://iesp.uerj.br/en/) (IESP-UERJ). I also work as a data scientist at [AtlasIntel](https://atlasintel.org/) and do research at the Policy and Election Monitoring and Evaluation Laboratory ([MAPE](https://mape.org.br/), IESP-UERJ).
 
 I'm mainly interested in the following topics:
 
