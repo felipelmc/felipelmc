@@ -2,7 +2,7 @@
 
 I'm a data scientist with a degree from the [School of Applied Mathematics](https://emap.fgv.br/en) (FGV EMAp) and a social scientist with a degree from the [School of Social Sciences](https://cpdoc.fgv.br/en) (FGV CPDOC). Currently, I'm pursuing a Master's degree in Political Science at the [Institute of Social and Political Studies](https://iesp.uerj.br/en/) (IESP-UERJ). I also work as a data scientist at [AtlasIntel](https://atlasintel.org/) and do research at the Policy and Election Monitoring and Evaluation Laboratory ([MAPE](https://mape.org.br/), IESP-UERJ).
 
-My research interests include political behavior, public policy, and the application of data science techniques to social science research. This broadly encompasses the use of machine learning, deep learning, causal inference, natural language processing, and survey methods to investigate political phenomena.
+My research interests include political behavior, public policy, and the application of data science techniques to social science research. This broadly encompasses the use of machine learning, deep learning, causal inference, and survey methods to investigate political phenomena.
 
 🎮 Other than that, I'm also into playing video games[^1] and (sometimes) exercising
 
